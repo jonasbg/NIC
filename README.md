@@ -4,7 +4,7 @@ This project is a starter for NIC
 
 Please change username and password for InfluxDb, DO NOT USE `admin`!!!
 
-How to get started:
+## How to get started:
 ```bash
 git clone https://github.com/jonasbg/NIC.git
 cd NIC
